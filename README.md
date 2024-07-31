@@ -25,12 +25,12 @@
 ## 📫 Como entrar em contato comigo:
 <div>
 <a href = "mailto:math.eufrasio@gmail.com"><img loading="lazy" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-<a href="https://www.linkedin.com/in/matheus-eufrásio" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>   
+<a href="www.linkedin.com/in/matheus-eufrásio-51678922b" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>   
 </div>
 
 
  ## 📚 GitHub Status
-![GitHub Streak](https://streak-stats.demolab.com?user=josimarsdepaula&theme=radical&date_format=j%20M%5B%20Y%5D&card_width=806)
+![GitHub Streak](https://streak-stats.demolab.com?user=m-eufrasio&theme=radical&date_format=j%20M%5B%20Y%5D&card_width=806)
 <div>
 <a href="https://github.com/m-eufrasio">
 <img loading="lazy" height="500em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=m-eufrasio&layout=donut-vertical&langs_count=7&theme=radical"/>
