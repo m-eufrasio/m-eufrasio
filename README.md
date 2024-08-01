@@ -18,8 +18,7 @@
 </p>
 
 ## 🌱 Atualmente estou aprendendo: 
-- <img heigth="15" width="20" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" /> - estou focando no backend e vendo um pouco sobre automação;
-- <img heigth="15" width="20" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/django/django-plain.svg" /> - estudando para APIs RESTful;
+- <img heigth="15" width="20" src="https://icongr.am/devicon/postgresql-original.svg?size=128&color=currentColor" /> - revisando conceitos do banco de dados;
 - <img heigth="15" width="20" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/laravel/laravel-original.svg" /> - aprofundando mais sobre várias ferramentas que o framekwork possui;
 
 ## 📫 Como entrar em contato comigo:
